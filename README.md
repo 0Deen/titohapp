@@ -1,7 +1,7 @@
 <div align="center">
   
   
-  <img src="./readme-images/bbg.jpg" />
+  <img src="./readme-images/bbb.jpg" />
 
   <h2 align="center">TitohApp - Real estate website</h2>
 
