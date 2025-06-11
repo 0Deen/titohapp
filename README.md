@@ -1,7 +1,7 @@
 <div align="center">
   
   
-  <img src="./readme-images/" />
+  <img src="./readme-images/bbg.jpg" />
 
   <h2 align="center">TitohApp - Real estate website</h2>
 
@@ -15,8 +15,9 @@
 
 ### Demo Screeshots
 
-![homeverse Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-![homeverse Mobile Demo](./readme-images/mobile.png "Mobile Demo")
+![TitohApp Desktop Demo](./readme-images/aaq.jpg "Desktop Demo")
+![TitohApp Tablet/iPad Demo](./readme-images/aaf.jpg "Tablet/iPad Demo")
+![TitohApp Mobile Demo](./readme-images/aas.jpg "Mobile Demo")
 
 ### Prerequisites
 
